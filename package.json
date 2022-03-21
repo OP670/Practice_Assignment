@@ -20,5 +20,8 @@
   "homepage": "https://github.com/OP670/Practice_Assignment#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
