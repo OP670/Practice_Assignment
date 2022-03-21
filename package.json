@@ -1,0 +1,24 @@
+{
+  "name": "practice_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OP670/Practice_Assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OP670/Practice_Assignment/issues"
+  },
+  "homepage": "https://github.com/OP670/Practice_Assignment#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
